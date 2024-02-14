@@ -1,0 +1,10 @@
+.GameModal {
+
+}
+
+.GameModalTextContent {
+    margin-top: 40px;
+    font-family: Consolas, monospace;
+    font-size: 24px;
+    white-space: nowrap;
+}
